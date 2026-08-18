@@ -32,18 +32,13 @@ The project contains marks of 10 students in 4 subjects:
 
 ## Visualizations
 
-### V1 - Student Performance by Subject
+![Student Performance](Screenshots/student_performance.png)
 
-![Student Performance](V1_Student_Performance.png)
+![Individual Performance](Screenshots/individual_performance.png)
 
-### V2 - Individual Student Performance
+![Average Performance](Screenshots/average_performance.png)
 
-![Individual Performance](V2_Individual_Performance.png)
-
-### V3 - Average Student Performance
-
-![Average Performance](V3_Average_Performance.png)
-![Subject Wise Average Marks](V3_Subject_Wise_Average_Marks)
+![Subject Wise Average Marks](Screenshots/subject_wise_average_marks.png)
 
 ## How to Run
 
