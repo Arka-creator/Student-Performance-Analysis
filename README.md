@@ -1,4 +1,4 @@
-Student Performance Analysis
+# Student Performance Analysis
 
 A beginner-level Python project that analyzes student marks using NumPy and visualizes the results using Matplotlib.
 
