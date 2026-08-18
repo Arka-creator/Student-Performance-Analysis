@@ -149,29 +149,7 @@ plt.legend()
 plt.tight_layout()
 plt.show()
 
-#V2 Remake with less line of code using loop
-subjects = np.array(["MATH", "PYTHON", "DBMS", "OS"])
-x_subjects = np.arange(len(subjects))
-plt.figure(figsize=(15, 7))
-for i in range(len(students)):
-
-    plt.subplot(2, 5, i + 1)
-    student_marks = np.array([
-        MATH[i],
-        PYTHON[i],
-        DBMS[i],
-        OS[i]
-    ])
-
-    plt.plot(x_subjects, student_marks, marker='o', label=students[i])
-    plt.xticks(x_subjects, subjects, rotation=20)
-    plt.xlabel("Subjects")
-    plt.ylabel("Marks")
-    plt.title(students[i] + "'s Performance",color='Red')
-    plt.grid()
-    plt.legend()
-plt.tight_layout()
-plt.show()
+#
 
 #V3
 average_marks = []
