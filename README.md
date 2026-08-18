@@ -29,9 +29,6 @@ The project contains marks of 10 students in 4 subjects:
 * Average values displayed on charts
 
 ## Images
-
-## Visualizations
-
 ![Student Performance](Screenshots/student_performance.png)
 
 ![Individual Performance](Screenshots/individual_performance.png)
@@ -46,4 +43,5 @@ Install the required libraries:
 
 ```bash
 pip install numpy matplotlib
+python "student_analysis (V1-V2-V3).py"
 
