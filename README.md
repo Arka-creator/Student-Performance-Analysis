@@ -28,4 +28,26 @@ The project contains marks of 10 students in 4 subjects:
 * Bar charts and line charts
 * Average values displayed on charts
 
+## Images
+
+## Visualizations
+
+### V1 - Student Performance by Subject
+
+![Student Performance](V1_Student_Performance.png)
+
+### V2 - Individual Student Performance
+
+![Individual Performance](V2_Individual_Performance.png)
+
+### V3 - Average Student Performance
+
+![Average Performance](V3_Average_Performance.png)
+
+## How to Run
+
+Install the required libraries:
+
+```bash
+pip install numpy matplotlib
 
