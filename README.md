@@ -43,6 +43,7 @@ The project contains marks of 10 students in 4 subjects:
 ### V3 - Average Student Performance
 
 ![Average Performance](V3_Average_Performance.png)
+![Subject Wise Average Marks](V3_Subject_Wise_Average_Marks)
 
 ## How to Run
 
